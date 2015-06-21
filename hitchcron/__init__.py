@@ -1,2 +1,2 @@
-from cron_service import CronService
-import cron
+from hitchcron.cron_service import CronService
+from hitchcron import cron
